@@ -1,0 +1,5 @@
+objpol-objetosc.o: objetosc.c /usr/include/stdc-predef.h objetosc.h
+
+/usr/include/stdc-predef.h:
+
+objetosc.h:

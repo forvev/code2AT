@@ -1,0 +1,5 @@
+objpol-pole.o: pole.c /usr/include/stdc-predef.h pole.h
+
+/usr/include/stdc-predef.h:
+
+pole.h:
